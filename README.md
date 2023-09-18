@@ -1,6 +1,4 @@
-Certainly! Below is a sample `README.md` script that you can use as a template for your Node.js project that involves user registration with OTP verification using MongoDB and Twilio. You can modify it to fit the specifics of your project.
 
-```markdown
 # User Registration with OTP Verification
 
 This Node.js application provides a user registration system with OTP (One-Time Password) verification using MongoDB as the database and Twilio for sending OTPs via SMS.
@@ -27,7 +25,6 @@ Before running this application, make sure you have the following:
    TWILIO_ACCOUNT_SID=your_twilio_account_sid
    TWILIO_AUTH_TOKEN=your_twilio_auth_token
    TWILIO_PHONE_NUMBER=your_twilio_phone_number
-   ```
 
 ## Installation
 
